@@ -6,7 +6,7 @@ public class Addition {
 	 int b;
 	 int c;
 	
-	public void add() {
+	public void add(int a, int b) {
 		
 		
 		c = a+b;
